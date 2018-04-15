@@ -1,7 +1,7 @@
 # FOS-Streaming-v1
 ## Features:
 - Streaming and restreaming (authentication, m3u8)
-- Manage users (overview, add, edit, delete, enable, disable)
+- Manage user (overview, add, edit, delete, enable, disable)
 - Manage categories (overview, add, edit, delete)
 - Manage streams (overview, add, edit, delete,start,stop)
 - Manage settings (configuration)
